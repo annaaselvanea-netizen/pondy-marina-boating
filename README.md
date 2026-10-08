@@ -20,6 +20,12 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## UPI deposits
+
+Customers pay a 20% booking deposit by scanning the static UPI QR image. Place the QR image at `public/payment-qr.png`; the booking confirmation page shows the amount and image. Payment is confirmed manually from the admin Bookings page.
+
+The public site includes a WhatsApp enquiry button linking to `+91 82209 13943`.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
