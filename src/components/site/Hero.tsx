@@ -22,7 +22,7 @@ export default function Hero({ video = "/hero.mp4" }: { video?: string }) {
 
       <div className="mx-auto w-full max-w-7xl px-5 pb-28 pt-32 lg:px-8">
         <p className="animate-fade-up text-xs font-semibold uppercase tracking-[0.4em] text-gold">
-          Pondy Marina Boating · Puducherry
+          Pondy Mangrove Boating · Puducherry
         </p>
         <h1 className="mt-5 max-w-4xl animate-fade-up font-serif text-5xl font-medium leading-[1.02] text-white [animation-delay:120ms] sm:text-7xl lg:text-[5.5rem]">
           One Boat.<br /><em className="text-gold not-italic">Four Destinations.</em><br />One Unforgettable Journey.

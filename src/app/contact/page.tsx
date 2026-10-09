@@ -11,7 +11,7 @@ export default function ContactPage() {
       <PageHeader eyebrow="Contact" title="We'd love to hear from you" text="Questions, group enquiries or special occasions: message us anytime." />
       <section className="mx-auto grid max-w-6xl gap-8 px-5 py-20 lg:grid-cols-2 lg:px-8">
         <div className="space-y-6">
-          <a href={`https://wa.me/${wa}?text=${encodeURIComponent("Hi Pondy Marina Boating, I'd like to know more.")}`}
+          <a href={`https://wa.me/${wa}?text=${encodeURIComponent("Hi Pondy Mangrove Boating, I'd like to know more.")}`}
             target="_blank" rel="noreferrer"
             className="flex items-center gap-4 rounded-3xl bg-[#25D366] p-6 text-white shadow-lg transition hover:-translate-y-0.5">
             <MessageCircle className="size-8" aria-hidden />

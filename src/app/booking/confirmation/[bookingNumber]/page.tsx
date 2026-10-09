@@ -93,7 +93,7 @@ export default function BookingConfirmationPage() {
       {state.status === "success" && (
         <article id="ticket" className="overflow-hidden rounded-3xl bg-white shadow-xl ring-1 ring-black/5">
           <header className="bg-forest px-6 py-8 text-center text-white sm:px-10">
-            <p className="text-xs font-semibold uppercase tracking-[0.25em] text-gold">Pondy Marina Boating</p>
+            <p className="text-xs font-semibold uppercase tracking-[0.25em] text-gold">Pondy Mangrove Boating</p>
             <h1 className="mt-3 font-serif text-4xl">Booking confirmed</h1>
             <p className="mt-2 text-sm text-sand/80">Your boating experience is reserved.</p>
           </header>
